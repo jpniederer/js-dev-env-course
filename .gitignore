@@ -38,3 +38,8 @@ jspm_packages
 
 # Random mock data
 db.json
+
+# production files
+dist
+.DS_store
+webpack.config.prod.js
